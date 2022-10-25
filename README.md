@@ -33,6 +33,9 @@ SE INSTALO EN MOTOR DE BASE DE DATOS Y EL EDITOR*
 *ENLACE AL REPOSITORIO*
 
 <a href=”base-de-datos/HITO2/LABS at master · Rodrigo7875/base-de-datos (github.com)”>hito 2</a>
+  
+  <BR>
+    <BR>
 
 <H2  id=”hito2” align="center">SEGUNDO HITO</H2>
 
@@ -48,6 +51,8 @@ BASE DE DATOS MEDIANTE EL MANAGEMENT ESTUDIO.*
 *ENLACE AL REPOSITORIO*
 
 <a href=”base-de-datos/HITO2/LABS at master · Rodrigo7875/base-de-datos (github.com)”>hito 2</a>
+      <BR>
+        <BR>
 
 <H2  id=”hito3” align="center">TERCER HITO</H2>
 
@@ -69,6 +74,8 @@ EN EL CUAL SE TIENE UN VIDEO Y UNA PRESENTACIÓN.
 <a href=”base-de-datos/VIDEO at master · Rodrigo7875/base-de-datos (github.com)”>VIDEO DE DEFENSA EVALUACIÓN HITO 3</a>
 
 <a href=”base-de-datos/Presentación.pdf at master · Rodrigo7875/base-de-datos (github.com)”>PRESENTACION DE DEFENSA EVALUACIÓN HITO 3</a>
+          <BR>
+            <BR>
 
 <H2  id=”autor” align="center">AUTOR</H2>
 
@@ -80,6 +87,8 @@ SOY ESTUDIANTE DE LA UNIVERSIDAD PRIVADA FRANZ TAMAYO .*
 </p>
 
 ## ✨ Screenshots
+<BR>
+  <BR>
 
 
 <H2  id=”contacto” align="center">CONTACTOS</H2>
@@ -88,6 +97,8 @@ SOY ESTUDIANTE DE LA UNIVERSIDAD PRIVADA FRANZ TAMAYO .*
 
 
 ## ✨ Screenshots
+    
+    <BR>
 
 *PUEDES CONTACTARTE*
 
