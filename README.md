@@ -12,9 +12,9 @@ En El Transcurso De La Asignatura De Base De Datos*.</P>
 
 <a href=”#hito3”>TERCER HITO</a>
 
-<a href=”#autor” >hito 2</a>
+<a href=”#autor” >AUTOR</a>
 
-<a href=”contacto”>hito 2</a>
+<a href=”contacto”>CONTACTO</a>
 
 
 <BR>
@@ -92,6 +92,6 @@ SOY ESTUDIANTE DE LA UNIVERSIDAD PRIVADA FRANZ TAMAYO .*
 *PUEDES CONTACTARTE*
 
 <a href=”rodrigocopa871@gmail.com
-”>CORREO ELECTRÓNICO </a>
+”>CORREO ELECTRÓNICO</a>
 
 
